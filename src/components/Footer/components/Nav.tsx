@@ -14,7 +14,7 @@ const Nav: React.FC = () => {
         target="_blank"
         href="https://app.uniswap.org/#/swap?inputCurrency=0xF7C643589e487b3cebb882A6339517271E1d9a39"
       >
-        Uniswap XPK-ETH
+        Uniswap xPOL-ETH
       </StyledLink>
       <StyledLink target="_blank" href="http://xpolka.medium.com/">
         MEDIUM
